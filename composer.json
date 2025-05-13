@@ -6,6 +6,7 @@
     "license": "MIT",
     "require": {
         "monsieurbiz/sylius-cms-page-plugin": "^1.0",
+        "monsieurbiz/sylius-cms-block-plugin": "^1.0",
         "monsieurbiz/sylius-homepage-plugin": "^1.1",
         "monsieurbiz/sylius-media-manager-plugin": "^1.0",
         "monsieurbiz/sylius-menu-plugin": "^1.3"
